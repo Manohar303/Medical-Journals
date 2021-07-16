@@ -1,0 +1,2 @@
+# Medical-Journals
+To maximise the utilisation of free-text medical journals and electronic health records (EHR), we focused on a particular subtask of clinical information extraction and developed a dedicated named-entity recognition web application. Where our model involves in identifying concepts of interest in free texts is a sub-task of information extraction, more commonly known as Named-Entity Recognition (NER) and seeks to classify tokens (words) into pre-defined categories.
